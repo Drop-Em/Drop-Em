@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Drop-Em
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MCA
+- 🌱 I’m currently pursuing MCA
 - 💞️ I’m looking to collaborate with anyone who is interested in Web Development
 - 📫 How to reach me sumit.sm@somaiya.edu
 
