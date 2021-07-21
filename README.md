@@ -16,8 +16,11 @@ I Play games. cook food. Recipes and stuff.
 
 ☕ Get in touch
 LinkedIn: https://www.linkedin.com/in/sumit-mandavkar-119082218
+
 Twitter: https://twitter.com/DropEm63591199
+
 Instagram: https://www.instagram.com/iconic_drop/
+
 Gmail: sumit.sm@somaiya.edu
 
 <!---
