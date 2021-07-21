@@ -1,18 +1,25 @@
 👋 Hi, I’m Sumit Mandavkar @Drop-Em
 
+
 🌱 I’m currently pursuing MCA
 
+
 ✔️ I'm currently learning
+
 Angular
 Python
 
+
 💡 Goals for 2021
+
 Complete #100DaysOfCode Challenge
 Build 50+ projects
 Become skilled in Angular
 
 🌴 Fun facts
+
 I Play games. cook food. Recipes and stuff.
+
 
 ☕ Get in touch
 
