@@ -6,8 +6,9 @@
 
 ✔️ I'm currently learning
 
-Angular
-Python
+# Angular
+
+# Python
 
 
 💡 Goals for 2021
