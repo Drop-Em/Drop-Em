@@ -15,6 +15,7 @@ Become skilled in Angular
 I Play games. cook food. Recipes and stuff.
 
 ☕ Get in touch
+
 LinkedIn: https://www.linkedin.com/in/sumit-mandavkar-119082218
 
 Twitter: https://twitter.com/DropEm63591199
