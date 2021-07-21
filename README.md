@@ -13,15 +13,15 @@
 
 💡 Goals for 2021
 
-Complete #100DaysOfCode Challenge
+  -> Complete #100DaysOfCode Challenge
 
-Build 50+ projects
+  -> Build 50+ projects
 
-Become skilled in Angular
+  -> Become skilled in Angular
 
 🌴 Fun facts
 
-I Play games. cook food. Recipes and stuff.
+  -> I Play games. cook food. Recipes and stuff.
 
 
 ☕ Get in touch
