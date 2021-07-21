@@ -6,15 +6,17 @@
 
 ✔️ I'm currently learning
 
-# Angular
+  -> Angular
 
-# Python
+  -> Python
 
 
 💡 Goals for 2021
 
 Complete #100DaysOfCode Challenge
+
 Build 50+ projects
+
 Become skilled in Angular
 
 🌴 Fun facts
