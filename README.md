@@ -1,8 +1,24 @@
-- 👋 Hi, I’m @Drop-Em
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently pursuing MCA
-- 💞️ I’m looking to collaborate with anyone who is interested in Web Development
-- 📫 How to reach me sumit.sm@somaiya.edu
+👋 Hi, I’m Sumit Mandavkar @Drop-Em
+
+🌱 I’m currently pursuing MCA
+
+✔️ I'm currently learning
+Angular
+Python
+
+💡 Goals for 2021
+Complete #100DaysOfCode Challenge
+Build 50+ projects
+Become skilled in Angular
+
+🌴 Fun facts
+I Play games. cook food. Recipes and stuff.
+
+☕ Get in touch
+LinkedIn: https://www.linkedin.com/in/sumit-mandavkar-119082218
+Twitter: https://twitter.com/DropEm63591199
+Instagram: https://www.instagram.com/iconic_drop/
+Gmail: sumit.sm@somaiya.edu
 
 <!---
 Drop-Em/Drop-Em is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
