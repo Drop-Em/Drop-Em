@@ -1,4 +1,4 @@
-👋 Hi, I’m Sumit Mandavkar @Drop-Em
+👋 Hi, I’m Sumit Mandavkar @xDropEm
 
 
 🌱 I’m currently pursuing MCA
