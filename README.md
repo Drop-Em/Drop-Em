@@ -9,10 +9,10 @@
 
   -> Angular
 
-  -> Python
+  -> Spring Boot
 
 
-### 💡 Goals for 2021
+### 💡 Goals for 2022
 
   -> Complete #100DaysOfCode Challenge
 
