@@ -33,7 +33,7 @@
 
  Instagram: https://www.instagram.com/iconic_drop/
 
- Gmail: sumit.sm@somaiya.edu
+ Gmail: mandavkarsumit69@gmail.com
 
 <!---
 Drop-Em/Drop-Em is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
