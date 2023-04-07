@@ -2,9 +2,6 @@
 
 <a href="https://app.daily.dev/DropEm"><img src="https://api.daily.dev/devcards/2ee1524af5b0499e86bafcaf27182cd9.png?r=fc7" width="400" alt="DropEm's Dev Card"/></a>
 
-### 🌱 I’m currently pursuing MCA
-
-
 ### ✔️ I'm currently learning
 
   -> Angular
