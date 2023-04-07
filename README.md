@@ -4,12 +4,10 @@
 
 ### ✔️ I'm currently learning
 
-  -> Angular
-
-  -> Spring Boot
+  -> Java
 
 
-### 💡 Goals for 2022
+### 💡 Goals for 2023
 
   -> Complete #100DaysOfCode Challenge
 
