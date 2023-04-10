@@ -4,7 +4,7 @@
 
 ### ✔️ I'm currently learning
 
-  -> Java
+  -> Angular
 
 
 ### 💡 Goals for 2023
@@ -13,7 +13,7 @@
 
   -> Build 50+ projects
 
-  -> Become skilled in Angular
+  -> Become skilled in React
 
 ### 🌴 Fun facts
 
